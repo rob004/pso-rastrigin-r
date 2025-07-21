@@ -1,9 +1,8 @@
 #-----------------------------------------------------------------------------#
 #           Busca em funções complexas com Inteligência de Enxames            #
-
 # Roberto de Morais Junior                                                    #
-#                                                          #
-# rmoraisjunior@gmail.com                                                     #
+# rmoraisjunior@gmail.com                                                     #                       #
+#                                                                             #
 #-----------------------------------------------------------------------------#
 
 #definindo os parametros do PSO
