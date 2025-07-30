@@ -4,7 +4,7 @@ Este repositório apresenta uma implementação do algoritmo de Otimização por
 
 ## Visão Geral
 
-A função Rastrigin é amplamente utilizada como benchmark para testar algoritmos de otimização, por ser uma função não-convexa e multimodal. O PSO, inspirado no comportamento coletivo de enxames, é uma abordagem eficiente para encontrar o mínimo global nesse tipo de problema.
+A função Rastrigin é amplamente utilizada como benchmark para testar algoritmos de otimização, por ser uma função não-convexa e multimodal. O PSO, inspirado no comportamento coletivo de enxames é uma abordagem eficiente para encontrar o mínimo global nesse tipo de problema.
 
 ## Parâmetros configuráveis
 
